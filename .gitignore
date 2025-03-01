@@ -16,8 +16,18 @@
 /build
 
 # misc
-.DS_Store
 *.pem
+
+# Editor directories
+.DS_Store
+.hbuilderx
+.vscode/*
+!.vscode/extensions.json
+.idea
+.vscode
+.project
+.cache
+.local
 
 # debug
 npm-debug.log*
